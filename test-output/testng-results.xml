@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-05T10:57:41 IST" name="WebTests Suite" finished-at="2026-04-05T10:59:11 IST" duration-ms="89908">
+    <groups>
+    </groups>
+    <test started-at="2026-04-05T10:57:41 IST" name="Myntra + Google + Flipkart Tests" finished-at="2026-04-05T10:59:11 IST" duration-ms="89908">
+      <class name="tests.WebTestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.WebTestCases@1d296da]" started-at="2026-04-05T10:57:41 IST" name="setUp" finished-at="2026-04-05T10:57:51 IST" duration-ms="10230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="myntraLoginTest()[pri:1, instance:tests.WebTestCases@1d296da]" started-at="2026-04-05T10:57:51 IST" name="myntraLoginTest" description="Myntra Login Test" finished-at="2026-04-05T10:58:01 IST" duration-ms="9754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myntraLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.WebTestCases@1d296da]" started-at="2026-04-05T10:58:01 IST" name="tearDown" finished-at="2026-04-05T10:58:12 IST" duration-ms="10863" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.WebTestCases@1d296da]" started-at="2026-04-05T10:58:12 IST" name="setUp" finished-at="2026-04-05T10:58:21 IST" duration-ms="9113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="googleSearchClaudeFeaturesTest()[pri:2, instance:tests.WebTestCases@1d296da]" started-at="2026-04-05T10:58:21 IST" name="googleSearchClaudeFeaturesTest" description="Google Search Test" finished-at="2026-04-05T10:58:49 IST" duration-ms="28048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearchClaudeFeaturesTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.WebTestCases@1d296da]" started-at="2026-04-05T10:58:49 IST" name="tearDown" finished-at="2026-04-05T10:58:50 IST" duration-ms="1274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.WebTestCases@1d296da]" started-at="2026-04-05T10:58:50 IST" name="setUp" finished-at="2026-04-05T10:58:54 IST" duration-ms="4034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="flipkartLoginTest()[pri:3, instance:tests.WebTestCases@1d296da]" started-at="2026-04-05T10:58:54 IST" name="flipkartLoginTest" description="Flipkart Login Test" finished-at="2026-04-05T10:59:10 IST" duration-ms="15454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.WebTestCases@1d296da]" started-at="2026-04-05T10:59:10 IST" name="tearDown" finished-at="2026-04-05T10:59:11 IST" duration-ms="924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.WebTestCases -->
+    </test> <!-- Myntra + Google + Flipkart Tests -->
+  </suite> <!-- WebTests Suite -->
+</testng-results>
